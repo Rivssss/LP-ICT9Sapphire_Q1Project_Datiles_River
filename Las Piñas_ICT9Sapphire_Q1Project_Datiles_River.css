@@ -1,0 +1,102 @@
+{margin: 0;padding: 0;box-sizing: border-box;}
+body { background-color: beige; }
+
+.header-box {
+  background-color: #000000;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+}
+
+.header-left h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.header-right p {
+  margin: 0;
+  font-size: 18px;
+}
+
+
+.top-box {
+    background-color: #0F176B;
+    width: 1400px;
+    color: whitesmoke;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.middle-box {
+    background-color: #0F176B;
+    width: 1400px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 100px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    color: whitesmoke;
+}
+
+.second-box {
+    background-color: #0F176B;
+    width: 500px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    color: whitesmoke;
+}
+
+
+form{ background-color: White;
+      padding: 60px;
+      border-radius: 12px;
+      width: 500px;
+      margin: auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  	}
+
+.footer-box {
+  background-color: #0F176B;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin-top: 50px;
+  box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+input[type="text"],
+    input[type="email"],
+    textarea,
+    select {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      box-sizing: border-box;
+    }
+
+    body {
+        font-family: "Arial", sans-serif;
+    }
+    p {
+        color: whitesmoke;
+    }
+    body {
+        color: darkblue;
+    }
